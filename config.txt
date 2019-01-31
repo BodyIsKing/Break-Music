@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
-stayinchannel=true
+owner=448964162840690700
+prefix=2
+game=2help| Special Server
+stayinchannel=false
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTMyMjMyMzkwNTQyNzUzODA3.DzR8qw.HS-q2klxyff5UGZ4B7r5wciOUM4
